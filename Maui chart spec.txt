@@ -1,0 +1,11 @@
+
+Maui Chart spec
+- resizable x and y axis
+- basic line chart
+- overlay grid option
+- grid overlay
+- Manual/ min / auto axis
+- Chart labels
+- toggle fill colour
+- toggle line
+- line thickness
